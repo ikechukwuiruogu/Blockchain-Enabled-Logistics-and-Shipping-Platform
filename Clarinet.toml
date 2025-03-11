@@ -15,6 +15,11 @@ path = 'contracts/customs-clearance.clar'
 clarity_version = 2
 epoch = 2.5
 
+[contracts.payment-escrow]
+path = 'contracts/payment-escrow.clar'
+clarity_version = 2
+epoch = 2.5
+
 [contracts.shipment-tracking]
 path = 'contracts/shipment-tracking.clar'
 clarity_version = 2
